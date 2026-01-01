@@ -1,15 +1,8 @@
-# Ključi in nastavitve
-.env
-.env.local
-
-# Node moduli
 node_modules/
 client/node_modules/
-
-# Build datoteke
+server/node_modules/
+.env
+server/.env
+client/.env
 dist/
 build/
-
-# Ostalo
-.DS_Store
-*.log
