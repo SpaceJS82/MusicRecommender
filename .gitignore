@@ -1,0 +1,15 @@
+# Ključi in nastavitve
+.env
+.env.local
+
+# Node moduli
+node_modules/
+client/node_modules/
+
+# Build datoteke
+dist/
+build/
+
+# Ostalo
+.DS_Store
+*.log
